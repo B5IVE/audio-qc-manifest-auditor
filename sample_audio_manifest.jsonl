@@ -1,0 +1,6 @@
+{"clip_id": "rec_001", "segment_id": "s1", "start_sec": 0.0, "end_sec": 4.2, "language": "en", "transcript": "Low-frequency hum stabilizes as the bench supply ramps to 3.3 volts."}
+{"clip_id": "rec_001", "segment_id": "s2", "start_sec": 3.8, "end_sec": 8.5, "language": "en", "transcript": "Brief click followed by steady ambient room tone."}
+{"clip_id": "rec_001", "segment_id": "s3", "start_sec": 8.6, "end_sec": 12.0, "language": "en", "transcript": ""}
+{"clip_id": "rec_002", "segment_id": "s1", "start_sec": 0.0, "end_sec": 2.4, "language": "en", "transcript": "n/a"}
+{"clip_id": "rec_002", "segment_id": "s2", "start_sec": 5.0, "end_sec": 2.1, "language": "en", "transcript": "Reversed timestamp segment for error testing."}
+
